@@ -1,2 +1,2 @@
 # feonix
-modern, responsive, cute front-end framework.
+modern, responsive and cute front-end framework.
